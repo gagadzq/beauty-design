@@ -1,0 +1,10 @@
+/build/*.js
+dist/
+/public/*.js
+/output/*.js
+**/*.stories.js
+**/*.test.js
+**/*.d.ts
+node_modules
+packages/**/public/
+packages/**/dist/
